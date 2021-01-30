@@ -1,0 +1,201 @@
+first_name,last_name,gender,residence,sector,date_of_birth,occupation
+Marcus,Rozier,Male,Living with family,2,1934-03-08,Retired
+Jennifer,Paddock,Female,Living with family,5,2007-04-23,Student
+Jackie,Williams,Male,Living with family,2,2011-03-31,Student
+Debra,Newton,Female,Living with family,3,1961-11-23,Care Home Employee
+David,Miller,Male,Living alone,4,1942-03-16,Retired
+Jamal,Narron,Male,Living with family,8,2006-06-16,Student
+Howard,Kalinowski,Male,Living with family,5,1976-10-15,Athlete
+Larry,Rogers,Male,Living alone,6,1960-07-18,Teacher
+Susan,Alston,Female,Living alone,8,1933-11-11,Retired
+Brandon,Lavoie,Male,Living alone,8,1938-01-19,Retired
+Everette,Faines,Male,Living with family,8,2004-03-21,Student
+Donna,Boyle,Female,Living with family,3,1996-09-18,Nurse
+Richard,Taylor,Male,Living alone,5,1996-01-29,Unemployed
+Deborah,Miller,Female,Living with family,5,2016-07-18,Unemployed
+David,Murphy,Male,Living alone,5,1961-07-30,Unemployed
+Elizabeth,Scala,Female,Living with family,3,1944-08-26,Retired
+Richard,Garcia,Male,Living with family,6,2000-05-25,Student
+Ruby,Myers,Female,Living alone,1,1980-09-06,Athlete
+John,Chan,Male,Living with family,6,1987-03-30,Lawyer
+Jack,Murphy,Male,Living with family,5,1982-11-24,Artist
+James,Walk,Male,Living with family,7,1957-12-18,Artist
+Janice,Garcia,Female,Living alone,1,1945-09-19,Retired
+Sandra,Cain,Female,Living alone,7,1950-12-19,Retired
+Nora,Mashaw,Female,Living with family,6,2019-03-28,Unemployed
+Betty,Nazario,Female,Living with family,5,1978-06-09,Teacher
+Christine,Pena,Female,Living alone,4,1991-10-15,Accountant
+Megan,Hilker,Female,Living with family,4,1976-11-15,Doctor
+Eric,Gonzalez,Male,Living with family,2,1962-03-17,Programmer
+Shirley,Cruz,Female,Living alone,9,1965-08-17,Care Home Employee
+Freda,Mccoy,Female,Living alone,2,1940-01-29,Retired
+James,Brown,Male,Living with family,8,1957-04-14,Doctor
+Theodore,Johnson,Male,Living with family,8,1958-09-15,Graphic Designer
+Pearl,Comeaux,Female,Senior Home,8,1949-01-30,Retired
+Susana,Schuster,Female,Living with family,4,1965-05-30,Politician
+Shawn,Howerton,Male,Senior Home,3,1931-07-10,Retired
+Rebecca,Wangler,Female,Living alone,8,2002-04-07,Student
+William,Llanas,Male,Living with family,7,1974-11-03,Politician
+Lisa,Boynton,Female,Senior Home,8,1946-09-28,Retired
+William,Mittendorf,Male,Living alone,5,1962-06-09,Politician
+Aida,Swift,Female,Living alone,8,1966-06-25,Nurse
+Andrew,Gay,Male,Living alone,4,1938-11-03,Retired
+Robert,Crum,Male,Living alone,5,1984-04-29,Bus Driver
+Mary,Cole,Female,Living with family,1,1959-03-22,Electrician
+Allison,Merchant,Female,Living alone,4,1934-02-16,Retired
+Timothy,Reed,Male,Living alone,6,1991-03-14,Artist
+Steven,Alvarez,Male,Living alone,6,1989-05-14,Graphic Designer
+Anthony,Ross,Male,Living with family,8,1978-10-05,Artist
+Fannie,Gardner,Female,Living alone,4,1983-09-27,Banker
+Richard,Lee,Male,Living with family,4,1959-02-21,Care Home Employee
+Dan,Ferraro,Male,Living alone,5,1985-08-04,Accountant
+Oscar,Smith,Male,Living alone,2,1974-11-22,Doctor
+Robert,Acevedo,Male,Living alone,8,1930-02-24,Retired
+George,Saugis,Male,Living alone,6,1982-01-13,Plumber
+Elijah,Cowan,Male,Living alone,6,1995-04-25,Teacher
+David,Hokenson,Male,Living alone,2,1974-06-16,Programmer
+Kimberly,Phillips,Female,Living alone,4,1939-07-16,Retired
+Kenneth,Smith,Male,Senior Home,4,1936-06-18,Retired
+Edna,Jones,Female,Senior Home,2,1930-12-12,Retired
+Luz,Hobbs,Female,Living alone,8,1993-11-11,Artist
+Gordon,Lathrop,Male,Senior Home,6,1932-08-11,Retired
+Judith,English,Female,Living with family,8,1954-12-26,Retired
+Florence,Lee,Female,Living with family,3,1987-02-07,Care Home Employee
+Frankie,Myers,Male,Living with family,8,2011-09-20,Student
+Helen,Myrick,Female,Living with family,2,2004-01-18,Student
+Reatha,Garcia,Female,Living alone,6,1937-09-12,Retired
+Hector,Mcdonald,Male,Living alone,5,1962-12-30,Care Home Employee
+Don,Provenzano,Male,Living with family,4,1931-11-13,Retired
+Vicki,Bernstein,Female,Senior Home,8,1936-11-30,Retired
+Daniel,Toscano,Male,Living with family,5,1949-05-26,Retired
+Debra,Hamilton,Female,Living with family,4,1972-10-22,Accountant
+Destiny,Schumann,Female,Living with family,1,1991-06-26,Plumber
+Raymond,Norton,Male,Living with family,6,1959-08-15,Banker
+Betty,Williams,Female,Living with family,5,2015-07-18,Unemployed
+Ariana,Wainwright,Female,Senior Home,1,1934-08-12,Retired
+Dorothy,Sallie,Female,Living with family,2,1968-07-30,Electrician
+Larry,Jones,Male,Living with family,4,1936-04-25,Retired
+Linda,Cyrus,Female,Living with family,4,1977-08-09,Doctor
+Alexander,Catalan,Male,Living with family,8,2009-06-20,Student
+Cristina,Crisp,Female,Living alone,8,1954-06-15,Retired
+Nancy,Moore,Female,Living with family,3,1946-02-14,Retired
+Emma,Munoz,Female,Living with family,8,1987-08-12,Care Home Employee
+Paul,Benitez,Male,Living alone,8,1983-02-03,Accountant
+Amber,Miller,Female,Living alone,9,1993-10-14,Athlete
+Emma,Mendoza,Female,Living alone,5,1937-08-06,Retired
+David,Jacobson,Male,Living with family,4,1987-03-19,Accountant
+Jeff,Rodriguez,Male,Living alone,6,1955-11-15,Retired
+Donald,Palumbo,Male,Living with family,5,2009-02-02,Student
+Karen,Bautista,Female,Senior Home,5,1932-02-25,Retired
+John,Wheeler,Male,Living with family,5,1997-07-10,Student
+Brandon,Pollard,Male,Senior Home,1,1947-03-24,Retired
+June,Lazaroff,Female,Living with family,4,2005-12-12,Student
+Sarah,Norvell,Female,Living alone,5,1986-02-23,Lawyer
+Edward,Lopez,Male,Living with family,7,1991-07-20,Electrician
+John,Hall,Male,Living alone,2,1982-04-09,Politician
+Antonio,Brungardt,Male,Living with family,6,2009-09-12,Student
+Maria,Chesson,Female,Senior Home,8,1945-04-02,Retired
+Jeremiah,Dunn,Male,Living with family,2,1999-12-08,Student
+James,Aceuedo,Male,Living alone,4,1971-10-27,Plumber
+David,Dillon,Male,Senior Home,2,1939-08-30,Retired
+Shirley,William,Female,Living with family,5,1981-12-25,Politician
+Miles,Crum,Male,Living with family,5,2020-11-02,Unemployed
+Stella,Rowe,Female,Living with family,8,1990-12-25,Doctor
+Ellen,Burroughs,Female,Living with family,4,1990-11-26,Athlete
+Shanna,Johnson,Female,Living alone,6,1952-06-16,Retired
+Micah,Whitener,Male,Living alone,5,1974-01-14,Teacher
+Johnny,Sanders,Male,Living with family,2,2015-05-18,Unemployed
+Alfredo,Reed,Male,Senior Home,9,1948-01-07,Retired
+Aaron,Boelter,Male,Living with family,5,2006-06-04,Student
+Pamela,Harrison,Female,Living with family,2,2017-06-07,Unemployed
+Joyce,Cartwright,Female,Living with family,5,2017-08-17,Unemployed
+Roger,Oakley,Male,Living with family,5,2003-10-16,Student
+Barry,Schwantes,Male,Living with family,5,2003-10-28,Student
+Jean,Taylor,Female,Senior Home,5,1933-09-06,Retired
+Barton,Caine,Male,Living with family,4,1980-10-10,Politician
+Bonnie,Hampton,Female,Living with family,3,1992-04-01,Artist
+Jacquelynn,Vandenheuvel,Female,Living with family,7,2008-12-25,Student
+Benito,Ruth,Male,Living with family,8,1934-02-08,Retired
+Terry,Winebarger,Male,Living alone,8,2003-09-25,Student
+Jean,Aranda,Female,Living with family,5,1942-09-13,Retired
+Miki,Laskowski,Female,Living with family,8,1943-02-10,Retired
+Alan,Person,Male,Living with family,2,1997-08-04,Student
+Dalton,Alvarez,Male,Living alone,8,1968-01-29,Plumber
+Anita,Sider,Female,Living with family,7,1998-08-27,Student
+Archie,Furst,Male,Living alone,8,2003-08-21,Student
+Billie,Jimenez,Female,Living with family,6,1942-12-10,Retired
+Charles,Krupp,Male,Living alone,7,1938-06-12,Retired
+Kathleen,Kaminsky,Female,Living alone,5,1998-12-04,Student
+Ilene,Polk,Female,Living with family,2,1995-02-17,Graphic Designer
+John,Ingram,Male,Living with family,2,1931-03-18,Retired
+Mitchell,Silva,Male,Senior Home,5,1952-02-04,Retired
+David,Leon,Male,Senior Home,6,1948-03-28,Retired
+Howard,Knepper,Male,Living with family,2,2004-10-18,Student
+Altagracia,Reynolds,Female,Living with family,3,1955-01-06,Retired
+Larry,Whitford,Male,Living with family,2,1948-10-10,Retired
+Steven,Earl,Male,Senior Home,8,1945-08-25,Retired
+Rosalie,Dotson,Female,Living with family,1,2013-07-02,Student
+Michael,Turner,Male,Living alone,4,1938-06-03,Retired
+Laura,Mayer,Female,Living with family,5,1997-02-24,Student
+Anita,Little,Female,Living with family,7,1963-01-30,Artist
+Betty,Delrio,Female,Living with family,9,1986-06-30,Plumber
+Artie,Paulk,Female,Living with family,4,1987-03-15,Bus Driver
+Pierre,Barnes,Male,Living alone,4,1988-01-25,Bus Driver
+Frank,Mojica,Male,Living alone,8,1971-10-15,Programmer
+Andrew,Pease,Male,Living with family,9,1955-09-23,Retired
+Curtis,Lewis,Male,Living with family,5,2007-05-14,Student
+Treva,Martinez,Female,Living with family,4,1975-01-24,Nurse
+Ethel,Nadeau,Female,Living with family,2,1968-01-29,Doctor
+Megan,Renner,Female,Living alone,6,2003-06-23,Student
+Susie,King,Female,Living with family,4,1993-11-22,Care Home Employee
+Mary,Norman,Female,Living with family,3,1980-02-06,Nurse
+Dean,Babers,Male,Living with family,7,1983-03-10,Nurse
+Herbert,Barnett,Male,Senior Home,8,1950-04-12,Retired
+Frances,Yazzie,Female,Living alone,2,1995-09-05,Teacher
+Eric,Uchida,Male,Living with family,2,1997-05-29,Student
+Claudia,Kalinowski,Female,Living with family,6,1945-01-26,Retired
+Tommy,Lopez,Male,Living alone,6,1998-05-14,Student
+William,Jones,Male,Living alone,9,1979-12-13,Programmer
+Trevor,Parker,Male,Living alone,4,1965-06-18,Teacher
+Sarah,Gardner,Female,Senior Home,8,1936-02-21,Retired
+Shelia,Fieck,Female,Living alone,9,1982-11-25,Electrician
+Linda,Gay,Female,Living with family,4,1998-07-11,Student
+Julie,Stamper,Female,Living alone,1,1954-03-28,Retired
+Gail,Davis,Male,Living alone,5,1969-12-14,Teacher
+Marie,Pearsall,Female,Living alone,1,2003-07-25,Student
+Mae,Hopkins,Female,Living alone,5,1942-07-14,Retired
+Herman,Pratt,Male,Living with family,5,1999-03-14,Student
+Yolanda,Barnes,Female,Living alone,8,1971-09-17,Politician
+Robert,Schaffner,Male,Living with family,5,1941-10-24,Retired
+Allan,Burks,Male,Living with family,4,2018-12-16,Unemployed
+Adan,Orona,Male,Living alone,5,1984-05-13,Lawyer
+Bridgett,Wheatley,Female,Senior Home,5,1939-12-11,Retired
+Esther,Dorsey,Female,Living alone,3,1999-06-10,Student
+Henry,Axtell,Male,Living with family,8,1933-04-14,Retired
+Teresa,Clark,Female,Living alone,1,2000-10-04,Student
+Larry,Davis,Male,Senior Home,7,1941-09-27,Retired
+Sabrina,Poling,Female,Living with family,2,2003-03-23,Student
+Veronica,Marsh,Female,Living alone,5,1984-09-29,Nurse
+Priscilla,Rolen,Female,Senior Home,3,1938-06-22,Retired
+Clifford,Contreras,Male,Living with family,5,1978-06-11,Bus Driver
+Carlos,Barber,Male,Living alone,8,1959-06-09,Politician
+David,Rone,Male,Living with family,8,1980-10-18,Programmer
+Raquel,Hall,Female,Living alone,2,1966-08-18,Bus Driver
+Daniel,Boyce,Male,Living with family,1,1972-07-24,Graphic Designer
+Sandra,Akim,Female,Living alone,6,1949-10-13,Retired
+Mary,Atkins,Female,Living alone,6,1968-09-04,Artist
+Carol,Cruz,Female,Living with family,8,1974-09-03,Electrician
+Randall,Cox,Male,Living with family,6,1956-05-29,Accountant
+Robert,Walters,Male,Living with family,4,2018-05-08,Unemployed
+Clarence,Poulin,Male,Living with family,5,1984-06-16,Doctor
+John,Rush,Male,Living alone,5,1932-03-31,Retired
+Angel,Weiser,Male,Living alone,8,1954-01-18,Retired
+James,Collins,Male,Senior Home,5,1942-11-12,Retired
+Stuart,Hampton,Male,Living with family,7,1947-06-25,Retired
+Andres,Mcmullen,Male,Living with family,4,1980-05-12,Lawyer
+Andrew,Reyna,Male,Senior Home,8,1938-11-28,Retired
+Princess,Grilli,Female,Living alone,8,1993-04-10,Politician
+Gloria,Davis,Female,Living with family,1,1998-05-04,Student
+Andrew,Taylor,Male,Living with family,6,2020-01-19,Unemployed
+Barbara,Barnes,Female,Senior Home,2,1943-02-05,Retired
+Tania,Harper,Female,Living with family,5,1990-12-17,Nurse
