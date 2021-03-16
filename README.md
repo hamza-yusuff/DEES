@@ -1,6 +1,6 @@
 This is our implementation of our design for DEES Hackthon. 
 
-Down Below you can find a broad description of our design -
+Below you can find a broad description of our design -
 Hi ,
 Addressing the problem in two stages -
 
